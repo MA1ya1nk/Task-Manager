@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/tasks";
+const API = "https://task-manager-0c99.onrender.com";
 
 const taskList = document.getElementById("taskList");
 const form = document.getElementById("taskForm");
